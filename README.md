@@ -11,7 +11,9 @@ _Estruturas de Dados:_
 Listas: Implementações de listas encadeadas, duplamente encadeadas e circulares.
 
 Pilhas e Filas: Exemplos de uso de pilhas e filas, incluindo filas de prioridade.
+
 Árvores: Implementações de árvores binárias, árvores de busca binária, AVL, e árvores B.
+
 Grafos: Representação de grafos, algoritmos de busca (BFS, DFS) e algoritmos de caminho mínimo (Dijkstra, Floyd-Warshall).
 
 _Algoritmos:_
