@@ -2,14 +2,21 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "List",
+      "request": "launch",
+      "mainClass": "Listas_Faculdade.Lista1.List",
+      "projectName": "Algoritmos-e-estruturas-de-dados_2ee6a031"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/edenn/Documents/GitHub/Algoritmos-e-estruturas-de-dados",
-      "program": "c:/Users/edenn/Documents/GitHub/Algoritmos-e-estruturas-de-dados/build/Debug/outDebug",
+      "cwd": "c:/Users/edenn/Documents/GitHub/Algoritmos-e-estruturas-de-dados/pilha",
+      "program": "c:/Users/edenn/Documents/GitHub/Algoritmos-e-estruturas-de-dados/pilha/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
