@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/edenn/Documents/GitHub/Algoritmos-e-estruturas-de-dados",
-      "program": "c:/Users/edenn/Documents/GitHub/Algoritmos-e-estruturas-de-dados/build/Debug/outDebug",
+      "cwd": "c:/Users/edenn/Documents/GitHub/Algoritmos-e-estruturas-de-dados/pilha",
+      "program": "c:/Users/edenn/Documents/GitHub/Algoritmos-e-estruturas-de-dados/pilha/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
